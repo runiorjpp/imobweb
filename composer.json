@@ -1,0 +1,17 @@
+{
+    "name": "junior/casawebapp",
+    "description": "sistema imobiliario criado no curso",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "junior fernandes"
+        }
+    ],
+    "require": {}
+}
